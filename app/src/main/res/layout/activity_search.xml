@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".activities.SearchActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="20dp">
+
+        <RelativeLayout
+            android:id="@+id/s_searchbox_lay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/s_search_close"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="10dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/keyboard_backspace"
+                tools:ignore="ContentDescription" />
+
+            <EditText
+                android:id="@+id/s_search_box_input"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:boxStrokeColor="?android:attr/textColorTertiaryInverse"
+                app:shapeAppearance="?attr/shapeAppearanceCornerExtraLarge"
+                android:layout_centerVertical="true"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_toEndOf="@id/s_search_close"
+                android:background="@drawable/stroke_drawable"
+                android:drawableStart="@drawable/ic_baseline_search_24"
+                android:drawablePadding="10dp"
+                android:hint="@string/ex_town"
+                android:inputType="textPostalAddress"
+                android:padding="10dp"
+                android:textSize="14sp"
+                android:textStyle="italic"
+                tools:ignore="Autofill" />
+
+
+            </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/s_searchresult_lay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:elevation="2dp"
+            android:orientation="vertical"
+            android:padding="5dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/suggestion"
+                />
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none"
+                android:layout_marginVertical="5dp"
+                android:paddingHorizontal="10dp">
+                <com.google.android.material.chip.ChipGroup
+                    android:id="@+id/chip_group"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:singleLine="true">
+
+                    <com.google.android.material.chip.Chip
+                        android:id="@+id/chip1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="cotonou"/>
+
+                    <com.google.android.material.chip.Chip
+                        android:id="@+id/chip2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="porto-novo"/>
+
+                    <com.google.android.material.chip.Chip
+                        android:id="@+id/chip3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="parakou"/>
+                    <com.google.android.material.chip.Chip
+                        android:id="@+id/chip4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="grand-popo"/>
+                    <com.google.android.material.chip.Chip
+                        android:id="@+id/chip5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="calavi"/>
+                    <com.google.android.material.chip.Chip
+                        android:id="@+id/chip6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="abomey"/>
+                    <com.google.android.material.chip.Chip
+                        android:id="@+id/chip7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="bohicon"/>
+                    <com.google.android.material.chip.Chip
+                        android:id="@+id/chip8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="lokossa"/>
+                </com.google.android.material.chip.ChipGroup>
+
+            </HorizontalScrollView>
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none"
+                android:paddingHorizontal="10dp">
+
+                   <com.google.android.material.chip.ChipGroup
+                        android:id="@+id/chip_group2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:singleLine="true">
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip9"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="nikki"/>
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip10"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="ouidah"/>
+
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip11"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="allada"/>
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip12"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="dassa"/>
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip13"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="ketou"/>
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip14"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="tanguieta"/>
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip15"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="nikki"/>
+                        <com.google.android.material.chip.Chip
+                            android:id="@+id/chip16"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="savalou"/>
+                    </com.google.android.material.chip.ChipGroup>
+
+            </HorizontalScrollView>
+
+            <ListView
+                android:id="@+id/s_searchresult_rec"
+                android:layout_width="match_parent"
+                android:scrollbars="none"
+                android:layout_height="wrap_content"
+                tools:listitem="@layout/search_items" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

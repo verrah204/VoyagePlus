@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="io.network.voyageplus">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.VoyagePlus"
+        tools:targetApi="31">
+
+        <activity android:name=".activities.Enterdetails" />
+        <activity android:name=".activities.Noconnection" />
+        <activity android:name=".activities.EditProfileActivity" />
+        <activity android:name=".activities.ProfilesettingsActivity" />
+        <activity android:name=".activities.AccountsettingsActivity" />
+        <activity android:name=".activities.AccountEditActivity"/>
+        <activity android:name=".activities.AboutusActivity" />
+        <activity android:name=".activities.TermsCondnActivity" />
+        <activity android:name=".activities.MainSettingsActivity" />
+
+        <activity
+            android:name=".activities.SearchActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".activities.AddPlacesActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".activities.ConnexionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.VoyagePlus.SplashScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".onboarding.OnBoardingMainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.PlaceDetails"
+            android:exported="true" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBDvk9tV6yIUxYtM4xBvifuT3QUq_hGsL0" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" >
+
+        </activity>
+    </application>
+
+</manifest>

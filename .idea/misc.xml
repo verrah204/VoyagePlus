@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/back_cur_shape.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/bottom_curve_lay.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/circular_shape.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/cur_shape.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/dialog_shape.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/gradient.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_access_time.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_arrow_back.xml" value="0.11" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_baseline_align_horizontal_left_24.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_baseline_favorite_border_24.xml" value="0.109" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_baseline_keyboard_backspace_24.xml" value="0.109" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_baseline_person_outline_24.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_baseline_shopping_cart_24.xml" value="0.11" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_check_circle.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_close.xml" value="0.107" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_edit.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.126" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_local_phone.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_messages.xml" value="0.122" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_mic.xml" value="0.107" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_power_off.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_right_arrow.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_settings.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_star.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_user.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable/bottom_navigation_color_selector.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable/explore.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable/ic_baseline_explore_24.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable/ic_baseline_star_outline_24.xml" value="0.122" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.126" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable/keyboard_backspace.xml" value="0.109" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable/my_rect.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable/route.xml" value="0.1075" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/drawable/stroke_drawable.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_aboutus.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_account_edit.xml" value="0.18" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_accountsettings.xml" value="0.22" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_add_places.xml" value="0.20519159456118666" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_all_category.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_connexion.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_edit_profile.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_enterdetails.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_get_img_uri.xml" value="0.171875" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_inner_category.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_main_place.xml" value="0.22" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_main_settings.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_noconnection.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_onboardingmain.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_place_details.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_profilesettings.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_search.xml" value="0.18" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_show_comment.xml" value="0.2" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_splash.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/activity_terms_condn.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/all_category_row_items.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/category_row_items.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/comment_items.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/delete_accnt_dialog.xml" value="0.22" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/discounted_row_items.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/email_dialog.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fav_item.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fragment_carts.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fragment_explore.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fragment_favorite.xml" value="0.15" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fragment_login.xml" value="0.18" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fragment_maps.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fragment_person.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fragment_sign_up.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fragment_uemailverifyfragment.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fragment_ulocationfragment.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fragment_upreferencesfragment.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/fragment_userdetailsfragment.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/help_dialog.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/msg_dialog.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/no_net_dialog.xml" value="0.12" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/placeitems.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/plus_visites.xml" value="0.16" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/recent_search_items.xml" value="0.22" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/recently_viewed_items.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/search_items.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/slider_layout.xml" value="0.33" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/theme_dialog.xml" value="0.33" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/top_moment.xml" value="0.22" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/layout/viewed_items.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.125" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/VoyagePlus2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1295" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_baseline_align_horizontal_left_24.xml" value="0.104" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_baseline_favorite_border_24.xml" value="0.104" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_baseline_person_outline_24.xml" value="0.104" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.104" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/drawable-v24/ic_baseline_shopping_cart_24.xml" value="0.104" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/drawable/ic_baseline_explore_24.xml" value="0.104" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/activity_all_category.xml" value="0.18177083333333333" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/activity_connexion.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/activity_onboardingmain.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/activity_onboardingscreens.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/activity_place_details.xml" value="0.18177083333333333" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/fragment_cart.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/fragment_explore.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/fragment_favorite.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/fragment_person.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/fragment_sign_up.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/recently_viewed_items.xml" value="0.18177083333333333" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/layout/slider_layout.xml" value="0.1859375" />
+        <entry key="..\:/StudioProjects/androidProjects/VoyagePlus2/app/src/main/res/menu/top_app_bar.xml" value="0.18177083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

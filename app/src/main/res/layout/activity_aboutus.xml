@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.AboutusActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:elevation="5dp"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+        <ImageButton
+            android:id="@+id/abt_back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="TODO"
+            android:background="@android:color/transparent"
+            android:src="@drawable/keyboard_backspace"
+            tools:ignore="ContentDescription,HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="20dp"
+            android:text="@string/about_us"
+            android:textSize="17sp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginHorizontal="20dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:letterSpacing="0.1"
+                    android:text="@string/app_name"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:text="@string/your_personal_buddy_to_guide_your_trip"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:gravity="start"
+                    android:text="@string/travel_makes_one_modest_you_see_what_a_tiny_place_you_occupy_in_the_world_n_n_we_at_tourbuddy_swear_by_this_and_put_stock_in_satisfying_travel_dreams_that_make_you_perpetually_rich_constantly_we_have_been_moving_excellent_encounters_for_a_considerable_length_of_time_through_our_cutting_edge_planned_occasion_bundles_and_other_fundamental_travel_administrations_we_rouse_our_clients_to_carry_on_with_a_rich_life_brimming_with_extraordinary_travel_encounters_n_n_through_our_exceptionally_curated_occasion_bundles_we_need_to_take_you_on_an_adventure_where_you_personally_enjoy_with_the_stunning_magnificence_of_india_and_far_off_terrains_we_need_you_to_observe_sensational_scenes_that_are_a_long_ways_past_your_creative_ability"
+                    android:textSize="15sp" />
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:id="@+id/abt_anim1"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="30dp"
+                    app:lottie_autoPlay="true"
+                    app:lottie_loop="true"
+                    app:lottie_rawRes="@raw/vehicle_travel"
+                    app:lottie_repeatCount="100"
+                    app:lottie_speed="1" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginTop="20dp"
+                    android:text="@string/paragraph_one"
+                    android:textSize="15sp" />
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:id="@+id/abt_anim2"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="30dp"
+                    app:lottie_autoPlay="true"
+                    app:lottie_loop="true"
+                    app:lottie_rawRes="@raw/traveller"
+                    app:lottie_repeatCount="100"
+                    app:lottie_speed="1" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:gravity="start"
+                    android:text="@string/paragraph_two"
+                    android:textSize="15sp" />
+
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="town_items" >
+        <item >cotonou</item>
+        <item >parakou</item>
+        <item >ouidah</item>
+        <item >porto-novo</item>
+        <item >grand-popo</item>
+        <item >nikki</item>
+        <item >kpaou</item>
+        <item >ganvie</item>
+        <item >savalou</item>
+        <item >dassa</item>
+        <item >allada</item>
+        <item >natitingou</item>
+        <item >calavi</item>
+        <item >abomey</item>
+        <item >bohicon</item>
+        <item >lokossa</item>
+        <item >tori</item>
+        <item >ketou</item>
+        <item >tanguieta</item>
+    </string-array>
+
+    <string-array name="categorie_items" >
+        <item >Cinema</item>
+        <item >Night-Club</item>
+        <item >Plage</item>
+        <item >Hotel</item>
+        <item >Restaurant</item>
+        <item >Cafe</item>
+        <item >Eglise</item>
+        <item >Histoire</item>
+        <item >Jeux</item>
+        <item >Superette</item>
+        <item >Plein Aire</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358141442200",
+    "project_id": "voyageplus-b6a49",
+    "storage_bucket": "voyageplus-b6a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358141442200:android:69be05f54f252eb64df8ed",
+        "android_client_info": {
+          "package_name": "io.network.voyageplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358141442200-9m471a4s7cvuvhkevfi1dpqgu98q195k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvZOhVPOSENAHQr4hmAZmLTeiN1P1SbcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358141442200-9m471a4s7cvuvhkevfi1dpqgu98q195k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

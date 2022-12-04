@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_explore"
+        android:icon="@drawable/explore"
+        android:title="explore"/>
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_baseline_favorite_border_24"
+        android:title="favorites" />
+
+    <item
+        android:id="@+id/navigation_maps"
+        android:icon="@drawable/route"
+        android:title="maps" />
+    <item
+            android:id="@+id/navigation_person"
+            android:icon="@drawable/ic_baseline_person_outline_24"
+            android:title="profile" />
+
+</menu>
